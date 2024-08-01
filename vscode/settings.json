@@ -93,7 +93,7 @@
     "vim.vimrc.enable": true,
     "vscode-neovim.neovimExecutablePaths.darwin": "/usr/local/bin/nvim",
     "vscode-neovim.neovimExecutablePaths.linux": "/usr/bin/nvim",
-	"vscode-neovim.neovimExecutablePaths.win32":"C:\\Program Files\\Neovim\\bin\\nvim.exe",
+    "vscode-neovim.neovimExecutablePaths.win32":"C:\\Program Files\\Neovim\\bin\\nvim.exe",
     "vsicons.dontShowNewVersionMessage": true,
     "vsintellicode.features.python.deepLearning": "enabled",
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
