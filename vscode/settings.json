@@ -1,0 +1,136 @@
+{
+    "cmake.configureOnOpen": true,
+    "cmake.options.statusBarVisibility": "compact",
+    "cmake.showOptionsMovedNotification": false,
+    "dev.containers.dockerPath": "podman",
+    "diffEditor.codeLens": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "docker.dockerPath": "podman",
+    "docsYaml.telemetry.enableTelemetry": false,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.cursorBlinking": "solid",
+    "editor.cursorStyle": "line",
+    "editor.find.autoFindInSelection": "always",
+    "editor.fontFamily": "Inconsolata,'Gen Jyuu Gothic Monospace','monospace', monospace",
+    "editor.fontSize": 16,
+    "editor.guides.bracketPairs": true,
+    "editor.inlineSuggest.enabled": true,
+    "editor.lineNumbers": "on",
+    "editor.occurrencesHighlight": "multiFile",
+    "editor.renderControlCharacters": true,
+    "editor.renderLineHighlight": "all",
+    "editor.renderWhitespace": "all",
+    "editor.rulers": [
+        79,
+        119
+    ],
+    "editor.suggest.localityBonus": true,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "on",
+    "editor.tabSize": 4,
+    "editor.wordBasedSuggestions": "allDocuments",
+    "editor.wordSeparators": "/\\()\"':,.;<>~!@#$%^&*|+=[]{}`?-",
+    "editor.wordWrap": "off",
+    "extensions.ignoreRecommendations": true,
+    "files.eol": "\n",
+    "files.exclude": {
+        "**/*.o": true,
+        "**/*.so*": true,
+        "**/*.pyc": true
+    },
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "git.ignoreRebaseWarning": true,
+    "github.copilot.enable": {
+        "*": true
+    },
+    "go.toolsManagement.autoUpdate": true,
+    "go.useLanguageServer": true,
+    "javascript.referencesCodeLens.enabled": true,
+    "languageToolLinter.external.apiKey": "",
+    "languageToolLinter.external.username": "",
+    "languageToolLinter.languageTool.disabledRules": "UPPERCASE_SENTENCE_START,MORFOLOGIK_RULE_EN_US",
+    "languageToolLinter.serviceType": "public",
+    "mypy-type-checker.args": [
+        "--follow-imports=silent",
+        "--ignore-missing-imports",
+        "--no-strict-optional",
+        "--show-column-numbers"
+    ],
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "prettier.semi": false,
+    "python.analysis.addImport.heuristics": true,
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.completeFunctionParens": true,
+    "python.analysis.diagnosticMode": "workspace",
+    "python.analysis.inlayHints.functionReturnTypes": true,
+    "python.analysis.inlayHints.variableTypes": true,
+    "python.analysis.logLevel": "Warning",
+    "python.analysis.typeCheckingMode": "strict",
+    "python.createEnvironment.trigger": "off",
+    "python.languageServer": "Pylance",
+    "python.testing.pytestEnabled": true,
+    "python.testing.unittestEnabled": false,
+    "redhat.telemetry.enabled": false,
+    "ruff.enable": true,
+    "ruff.fixAll": true,
+    "ruff.organizeImports": true,
+    "ruff.showNotifications": "onWarning",
+    "search.collapseResults": "alwaysExpand",
+    "search.showLineNumbers": true,
+    "search.smartCase": true,
+    "telemetry.telemetryLevel": "off",
+    "typescript.referencesCodeLens.enabled": true,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "vim.foldfix": true,
+    "vim.gdefault": true,
+    "vim.highlightedyank.enable": true,
+    "vim.hlsearch": true,
+    "vim.vimrc.enable": true,
+    "vsicons.dontShowNewVersionMessage": true,
+    "vsintellicode.features.python.deepLearning": "enabled",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "window.titleBarStyle": "custom",
+    "window.zoomLevel": 3,
+    "workbench.colorTheme": "GitHub Dark",
+    "workbench.editor.decorations.badges": true,
+    "workbench.editor.enablePreviewFromCodeNavigation": true,
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "workbench.editor.highlightModifiedTabs": true,
+    "workbench.editor.titleScrollbarSizing": "large",
+    "workbench.editor.wrapTabs": true,
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "workbench.iconTheme": "vscode-icons",
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[python]": {
+        "editor.codeActionsOnSave": {
+            "source.fixAll": "explicit",
+            "source.organizeImports": "explicit"
+        },
+        "editor.defaultFormatter": "charliermarsh.ruff",
+        "editor.formatOnSave": true
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[xml]": {
+        "editor.defaultFormatter": "redhat.vscode-xml"
+    }
+}
