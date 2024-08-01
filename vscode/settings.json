@@ -11,7 +11,7 @@
     "editor.cursorBlinking": "solid",
     "editor.cursorStyle": "line",
     "editor.find.autoFindInSelection": "always",
-    "editor.fontFamily": "Inconsolata,'Gen Jyuu Gothic Monospace','monospace', monospace",
+    "editor.fontFamily": "Inconsolata, 'Gen Jyuu Gothic Monospace', monospace",
     "editor.fontSize": 14,
     "editor.guides.bracketPairs": true,
     "editor.inlineSuggest.enabled": true,
