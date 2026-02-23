@@ -19,6 +19,6 @@ flake8==7.3.0
 magic-wormhole==0.22.0
 mypy==1.19.1
 pep8-naming==0.15.1
-pylint==4.0.4
+pylint==4.0.5
 vim-vint==0.3.21
 yapf==0.43.0
